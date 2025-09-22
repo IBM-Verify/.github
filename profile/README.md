@@ -1,2 +1,2 @@
-# Wecome to IBM Verify GitHub Repositories
+# Wecome to IBM Verify GitHub
 
