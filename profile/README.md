@@ -1,2 +1,2 @@
-# Wecome to IBM Verify GitHub
+# Welcome to IBM Verify @ GitHub
 
